@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## How-To-Ecommerce
 
 👍HowTo Ecommerce is an advanced online shopping platform powered by a modern web development stack, featuring a robust combination of Express, React, and Node.js technologies. It enables users to enjoy a seamless shopping experience, with a dedicated cart page that allows effortless product additions. The integration of Redux state management ensures a high level of efficiency and flexibility. 
@@ -34,3 +35,6 @@
 5. The server will be running on port 4000 - Using Supabase as database
 
 
+=======
+# HOW-TO-COMMERCE-HOWTICA
+>>>>>>> e5a4b00832b8485f405ef92d705d6417188a2613
